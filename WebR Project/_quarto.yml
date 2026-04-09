@@ -1,5 +1,6 @@
 project:
   type: default
+  output-dir: docs
 
 title: "R as a Calculator"
 author: "Manus AI"
