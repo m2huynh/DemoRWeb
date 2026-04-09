@@ -1,0 +1,32 @@
+---
+title: "R as a Calculator"
+format: live-html
+engine: knitr
+---
+
+{{< include _extensions/r-wasm/live/_knitr.qmd >}}
+
+Welcome to the **R as a Calculator** interactive tutorial! This page uses WebR and Quarto Live to run R code directly in your browser. You don't need to install anything—just click "Run Code" to see the results.
+
+## 1. Basic Arithmetic Operations
+
+In this section, we explore the fundamental arithmetic operators in R. Try running the code block below, and feel free to change the numbers to see how the output updates!
+
+```{r}
+crime <- read.csv("Data/Crime Data.csv")
+```
+
+
+```{webr}
+# Read the data
+crime
+```
+
+```{webr}
+
+```
+
+```{webr}
+
+```
+

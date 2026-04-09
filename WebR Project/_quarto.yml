@@ -1,0 +1,14 @@
+project:
+  type: default
+
+title: "R as a Calculator"
+author: "Manus AI"
+format:
+  live-html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+
+engine: knitr
+resources:
+  - Data
